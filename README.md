@@ -1,5 +1,6 @@
 # RESA E-Commerce Sales Dashboard – Power BI Project
-A screenshot of the completed dashboard is provided to showcase the project interface and key visuals.
+## A screenshot of the completed dashboard is provided to showcase the project interface and key visuals.
+
 ![Dashboard Preview](https://github.com/RRoy1098/Sales-Dashboard/blob/main/Dashboard.png) 
 ## 1. Project Title and Headline
 RESA E-Commerce Sales Dashboard
