@@ -37,4 +37,4 @@ Business Presentation: Professional, clear layout suitable for executive and tea
 
 A screenshot of the completed dashboard is provided to showcase the project interface and key visuals.
 ![Dashboard Preview}
-(https://github.com/RRoy1098/Sales-Dashboard/blob/main/Sales%20Dashboard.pbit)
+(https://github.com/RRoy1098/Sales-Dashboard/blob/main/Dashboard.png)
