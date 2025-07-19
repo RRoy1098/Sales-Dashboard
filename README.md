@@ -36,4 +36,5 @@ Interactive Features: Dropdown filters, slicers, and drill-downs for customized 
 Business Presentation: Professional, clear layout suitable for executive and team reviews.
 
 A screenshot of the completed dashboard is provided to showcase the project interface and key visuals.
-https://github.com/RRoy1098/Sales-Dashboard/blob/main/Sales%20Dashboard.pbit
+![Dashboard Preview}
+(https://github.com/RRoy1098/Sales-Dashboard/blob/main/Sales%20Dashboard.pbit)
